@@ -1,0 +1,1 @@
+export { getFullDate } from './date';
